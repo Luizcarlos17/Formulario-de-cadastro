@@ -12,7 +12,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/assets/img/lobo.png); 
+    background-color: rgb(212, 105, 205);
 }
 
 .container {
@@ -27,7 +27,7 @@ body {
     display: flex; 
     justify-content: center;
     align-items: center;
-    background-color: #fde3a7d7;
+    background-color: rgb(127, 152, 228);
     padding: 1rem;
 }
 
@@ -41,7 +41,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #fff;
+    background-color: rgb(26, 180, 197);
     padding: 3rem;
 }
 
